@@ -1,4 +1,6 @@
-<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/23a7c7ef-4d14-4f78-b570-dd83d576cc70" /># JP-Radio 本地音乐播放器 
+<img width="1184" height="735" alt="297f8342fc74ef8c92a0bc3013fe4100" src="https://github.com/user-attachments/assets/25e13b13-d43c-45b3-a5e8-92771aa5a394" />
+
+# JP-Radio 本地音乐播放器 
 
 ## 功能特点
 - 🎵 支持本地音乐播放 + LRC 歌词同步显示
